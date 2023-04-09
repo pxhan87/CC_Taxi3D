@@ -1,0 +1,10 @@
+{
+  "name": "Taxi",
+  "uuid": "24a59385-ee4b-4378-9de2-539f2bc5690c",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "lz-string": "^1.4.4"
+  }
+}
